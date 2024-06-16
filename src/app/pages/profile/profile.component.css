@@ -1,0 +1,11 @@
+/* profile.component.css */
+.profile {
+    padding: 20px;
+  }
+  
+  .profile img {
+    width: 150px;
+    height: 190px;
+    border-radius: 50%;
+  }
+  
